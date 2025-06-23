@@ -1,0 +1,12 @@
+*
+
+!*/
+!.gitignore
+!README.md
+!LICENSE
+
+!*.py
+!Pipfile
+!Pipfile.lock
+
+!*.jpg
